@@ -1,7 +1,43 @@
 p{ 
-  font-size: 5em;
-  color: green;
-  padding: 3em;
+		font-size: 1em;
+		color: #900060;
+		padding: 1em;
+}
+
+ h1}
+		font-size: 3em;
+		background-color: #ff00ff;
+		color:#FFFFFF;
+}
+
+#images {
+		text-align: right;
 
 
 }
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;text-decoration: underline;
+}
+animation: bounce 1s ease-in 2s 6 alternate none;
